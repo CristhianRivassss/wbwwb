@@ -823,4 +823,4 @@ var textStrings_TR = {
 	"misatrributed": "(yanlış bir şekilde ona atfedilir)",
 };
 
-var textStrings = textStrings_EN;
+var textStrings = textStrings_ES;
